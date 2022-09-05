@@ -62,7 +62,7 @@ This involved a few major things:
 
 After this work was done, I thought it would be a really interesting idea to interface the analysis with a live recording session, that is, to immidiately automatically generate the analysis report for a recording session that is conducted. This would allow the user to see concrete results the minute his recording is done. This was then implemented by interfacing with the cli and debugging a lot of errors due to the large number of files involved and was finally implemented. 
 
-The PR is open and is conducive to be merged soon. 
+The PR is open and is conducive to be merged soon. The remaining work to be done on it is listed in the latest comment of the PR thread.
 
 ## Project 3 and Future Work
 

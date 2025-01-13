@@ -1,5 +1,5 @@
 # GSOC-eeg-notebooks
-Final Submission for GSOC
+Final Submission for GSOC (2022)
 
 ## Summary
 
